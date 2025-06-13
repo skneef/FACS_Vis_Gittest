@@ -1,0 +1,1 @@
+[["Lymphocytes", ["root"]], ["Live", ["root", "Lymphocytes"]], ["Single Cells", ["root", "Lymphocytes", "Live"]], ["CD8+", ["root", "Lymphocytes", "Live", "Single Cells"]], ["CD27+", ["root", "Lymphocytes", "Live", "Single Cells", "CD8+"]], ["CD39+", ["root", "Lymphocytes", "Live", "Single Cells", "CD8+"]], ["LAG3+", ["root", "Lymphocytes", "Live", "Single Cells", "CD8+"]]]
